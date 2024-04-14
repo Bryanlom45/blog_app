@@ -1,3 +1,4 @@
+//estilos para los botones
 import 'package:blog_app/core/theme/app_pallete.dart';
 import 'package:flutter/material.dart';
 

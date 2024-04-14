@@ -1,3 +1,4 @@
+//en esta parte se muestran los colores que se ocuparan
 import 'package:flutter/material.dart';
 
 class AppPallete {
